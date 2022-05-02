@@ -1,6 +1,6 @@
 # 1. Pergunte ao usuário em qual cidade e o estado em que ele(a) mora
-cidade = input('Qual cidade você mora?\n')
-estado = input('Qual estado você mora?\n')
+cidade = input('Em que cidade você mora?\n')
+estado = input('Em que estado você mora?\n')
 # 2. Imprima uma mensagem diga a cidade em que o usuário mora. 
 #    O nome da cidade deve estar todo em letras maiúsculas.
 frase = 'Usuária mora em ' + cidade
@@ -13,3 +13,8 @@ print(concatenacao)
 #    O nome do estado deve estar todo em letras maiúsculas.
 #    Utilize uma forma de formatação de string diferente da que foi usada no item 2.
 
+#APAGAR ISSO!
+
+#DAR GIT STAGE ARQUIVO ESQUPECIDO 
+# GIT COMMIT
+# GIT PUSH
