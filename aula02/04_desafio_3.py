@@ -13,4 +13,3 @@ print('Dia do niver da Dodó: ' + dia_aniversario.strftime('%d/%m/%y'))
 # Imprima uma mensagem dizendo se o usuário vai ganhar presente ou não
 # A regra é: o usuário só pode ganhar presente se gostar de aniversário e for fazer festa.
 
-1005
