@@ -17,7 +17,7 @@ fazer_festa = input('Você irá fazer festa? (responda com sim/nao): ')
 # Imprima uma mensagem dizendo se o usuário vai ganhar presente ou não
 # A regra é: o usuário só pode ganhar presente se gostar de aniversário e for fazer festa.
 
-if gosta_de_aniversario == 'sim' and fazer_festa == 'sim':
+if gosta_de_aniversario.lower() == 'sim' and fazer_festa.lower() == 'sim':
     print(' Surpresa!!! Você ganhará presente!!! *-* ')
 else:
     print('Que pena.. Não tem presente esse ano...')
