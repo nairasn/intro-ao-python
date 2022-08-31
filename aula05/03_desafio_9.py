@@ -44,4 +44,6 @@ The only thing I'll ever ask of you
 You've got to promise not to stop when I say when
 """
 
-
+separa = everlong_foo_fighters.split()
+resposta = sorted(set(separa))
+print(' '.join(resposta))
